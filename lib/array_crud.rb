@@ -35,5 +35,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-harper_family [1] = "kristopher
+harper_family [2] = "kristopher"
 end
